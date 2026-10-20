@@ -5,6 +5,8 @@ A photographic atlas of the countries of the world, by Faris Hamdan.
 
 أطلس مصوّر لدول العالم، إعداد فارس حمدان: 196 دولة في سبعة فصول، ترويها 2,261 صورة على 1,026 صفحة.
 
+Website · الموقع: **[godsvastworld.com](https://www.godsvastworld.com)**
+
 ## Download · التحميل
 
 The free PDF editions are in [Releases](../../releases/latest).
